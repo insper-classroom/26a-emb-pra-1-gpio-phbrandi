@@ -2,6 +2,7 @@
 #include "pico/stdlib.h"
 #include <stdio.h>
 
+// resposta
 const int BTN_PIN = 15;
 const int LED_PIN = 14;
 const int FASE1_PIN = 2;
